@@ -1,0 +1,85 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.first-div{
+    width: 100%;
+    height: 700px;
+    background: url(https://images.alphacoders.com/121/1218911.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.first-head{
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.first-par{
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+
+
+.second-div{
+    width: 100%;
+    height: 700px;
+    background: url(https://www.shutterstock.com/shutterstock/photos/1168655308/display_1500/stock-photo-desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-1168655308.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.second-head{
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.second-par{
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+
+
+.third-div{
+    width: 100%;
+    height: 700px;
+    background: url(https://images.alphacoders.com/121/1218911.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.third-head{
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 32px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
